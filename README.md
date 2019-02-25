@@ -32,6 +32,7 @@ The following table is an initial list of tools that seek to aggregate such data
 | N* | N* | N | https://www.flexera.com/products/software-vulnerability-management/ |
 | Y | Y | N | https://allgress.com/vulnerability-analysis |
 | Y | Y | N | https://gauntlet.io/ |
+| N | N | Y | https://www.talend.com/products/talend-open-studio/ | Can map and normalise many datasets |
 
 #####  ToDo add supported inputs and outputs
 
