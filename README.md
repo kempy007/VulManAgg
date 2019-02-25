@@ -23,12 +23,12 @@ The following table is an initial list of tools that seek to aggregate such data
 | ? | ? | N | https://elastic-detector.secludit.com/home/sign_in |
 | Y* | Y* | N | https://www.nopsec.com/ |
 | ? | ? | Y&N | https://vfeed.io/ |
-| Y | Y | Y | https://www.seccubus.com |
+| Y | Y | Y | https://www.seccubus.com | * Not a tool to consolidate scan data |
 | ? | Y | N | https://peoplesec.org/solutions/defects-analytics-portal/ |
 | Y | N | N | https://software.microfocus.com/en-us/products/software-security-assurance-sdlc/overview |
 | Y | ? | N | https://codedx.com/ |
 | Y | Y | N | https://www.rapid7.com/products/insightvm/ |
-| Y | Y* | Y* | https://archerysec.info/ |
+| Y | Y* | Y* | https://archerysec.info/ | Lack of import options, seems oriented to built in tools |
 | N* | N* | N | https://www.flexera.com/products/software-vulnerability-management/ |
 | Y | Y | N | https://allgress.com/vulnerability-analysis |
 | Y | Y | N | https://gauntlet.io/ |
