@@ -18,7 +18,7 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | Y | N | https://nucleusvrm.rampanttechnologies.com/ |
 |Y | N | Y&N | https://threadfix.it/ |
 | Y | Y | N | https://www.netspi.com/resolve/ |
-| Y | Y | Y | https://github.com/DefectDojo/django-DefectDojo |
+| Y | Y | Y | https://github.com/DefectDojo/django-DefectDojo | Looks the Biz but cannot import, '0 findings were processed' | 
 | Y | Y*| Y | https://github.com/olacabs/jackhammer |
 | ? | ? | N | https://elastic-detector.secludit.com/home/sign_in |
 | Y* | Y* | N | https://www.nopsec.com/ |
@@ -30,6 +30,8 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | Y | N | https://www.rapid7.com/products/insightvm/ |
 | Y | Y* | Y* | https://archerysec.info/ |
 | N* | N* | N | https://www.flexera.com/products/software-vulnerability-management/ |
+| Y | Y | N | https://allgress.com/vulnerability-analysis |
+| Y | Y | N | https://gauntlet.io/ |
 
 #####  ToDo add supported inputs and outputs
 
