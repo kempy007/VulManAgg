@@ -16,10 +16,10 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | Y | N | https://www.kennasecurity.com/ |
 | Y | Y | N | https://www.brinqa.com/ |
 | Y | Y | N | https://nucleusvrm.rampanttechnologies.com/ |
-|Y | N | Y&N | https://threadfix.it/ |
+|Y | N | N | https://threadfix.it/ | No longer OSS |
 | Y | Y | N | https://www.netspi.com/resolve/ |
 | Y | Y | Y | https://github.com/DefectDojo/django-DefectDojo | Looks the Biz but cannot import, '0 findings were processed' | 
-| Y | Y*| Y | https://github.com/olacabs/jackhammer |
+| Y | Y*| Y | https://github.com/olacabs/jackhammer | Online demo has no import, cannot build any version locally |
 | ? | ? | N | https://elastic-detector.secludit.com/home/sign_in |
 | Y* | Y* | N | https://www.nopsec.com/ |
 | ? | ? | Y&N | https://vfeed.io/ |
@@ -33,6 +33,11 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | Y | N | https://allgress.com/vulnerability-analysis |
 | Y | Y | N | https://gauntlet.io/ |
 | N | N | Y | https://www.talend.com/products/talend-open-studio/ | Can map and normalise many datasets |
+| Y | ? | Y&N | https://www.faradaysec.com/ | CE edition heavily stripped back |
+| Y | ? | Y&N | https://dradisframework.com/ | pentest & owasp oriented |
+| Y | ? | Y | http://vulnreport.io/ | pentest & owasp oriented |
+| Y | ? | ? | https://checksec.com/canopy.html |
+| Y | Y | N | https://www.skyboxsecurity.com/products/skybox-vulnerability-control |
 
 #####  ToDo add supported inputs and outputs
 
