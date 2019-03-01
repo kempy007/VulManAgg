@@ -38,6 +38,8 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | ? | Y | http://vulnreport.io/ | pentest & owasp oriented |
 | Y | ? | ? | https://checksec.com/canopy.html |
 | Y | Y | N | https://www.skyboxsecurity.com/products/skybox-vulnerability-control |
+| ? | ? | ? | https://www.simplerisk.com/ | orientated towards risk audits |
+| Y | Y | N | https://www.tenable.com/products/tenable-lumin | they plan to pull in 3rd party scan data one to watch |
 
 #####  ToDo add supported inputs and outputs
 
