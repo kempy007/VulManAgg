@@ -15,7 +15,7 @@ The following table is an initial list of tools that seek to aggregate such data
 
 |AppSec|OpSec|OSS|URL|Notes|
 |---|---|---|---------------------------|--|
-|£$€|£$€|Commercial Tools|
+|£$€|£$€|£$€|£$€|<h3>Commercial Tools</h3>|
 | Y | Y | N | https://www.kennasecurity.com/ |
 | Y | Y | N | https://www.brinqa.com/ |
 | Y | Y | N | https://www.nucleussec.com/ | 
@@ -33,17 +33,17 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | ? | N | https://codedx.com/ |
 | N* | N* | N | https://www.flexera.com/products/software-vulnerability-management/ | Patch management oriented, use to be Secunia(Had widest coverage of packages) |
 | ? | ? | N | https://www.simplerisk.com/ | Free to use, orientated towards risk audits |
-|???|???|Mixed|
+|???|???|???|???|<h3>Mixed</h3>|
 | Y | ? | Y&N | https://www.faradaysec.com/ | CE edition heavily stripped back |
 | Y | ? | Y&N | https://dradisframework.com/ | pentest & owasp oriented |
 | ? | ? | Y&N | https://vfeed.io/ |
 | Y | ? | ? | https://checksec.com/canopy.html |
-|OSS|OSS|Open Source|
+| N | N | Y&N | https://www.talend.com/products/talend-open-studio/ | Can map and normalise many datasets |
+|OSS|OSS|OSS|OSS|<h3>Open Source</h3>|
 | Y | Y | Y | https://github.com/DefectDojo/django-DefectDojo | Looks the Biz but cannot import, '0 findings were processed'. Using API to add issues works, but dedupe is not working as expected, project is not updated often | 
 | Y | Y*| Y | https://github.com/olacabs/jackhammer | Online demo has no import, cannot build any version locally |
 | Y | Y* | Y | https://archerysec.info/ | Lack of import options, seems oriented to built in tools |
 | Y | Y | Y | https://www.seccubus.com | * Not a tool to consolidate scan data |
-| N | N | Y | https://www.talend.com/products/talend-open-studio/ | Can map and normalise many datasets |
 | Y | ? | Y | http://vulnreport.io/ | pentest & owasp oriented |
 
 #####  ToDo add supported inputs and outputs
