@@ -47,6 +47,7 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | Y* | Y | https://archerysec.info/ | Lack of import options, seems oriented to built in tools |
 | Y | Y | Y | https://www.seccubus.com | * Not a tool to consolidate scan data, Scanner for Delta Reporting only a few tools supported |
 | Y | ? | Y | http://vulnreport.io/ | pentest & owasp oriented |
+| Y | Y | Y | https://github.com/HASecuritySolutions/VulnWhisperer | VulnWhisperer is a report aggregator which allows users to set custom risk scores and create actionable data for security analyst to effectively mitigate vulnerabilites. |
 
 #####  ToDo add supported inputs and outputs
 
