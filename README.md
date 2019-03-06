@@ -45,7 +45,7 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | Y | Y | https://github.com/DefectDojo/django-DefectDojo | Looks the Biz but cannot import, '0 findings were processed'. Using API to add issues works, but dedupe is not working as expected, project is not updated often | 
 | Y | Y*| Y | https://github.com/olacabs/jackhammer | Online demo has no import, cannot build any version locally |
 | Y | Y* | Y | https://archerysec.info/ | Lack of import options, seems oriented to built in tools |
-| Y | Y | Y | https://www.seccubus.com | * Not a tool to consolidate scan data |
+| Y | Y | Y | https://www.seccubus.com | * Not a tool to consolidate scan data, Scanner for Delta Reporting only a few tools supported |
 | Y | ? | Y | http://vulnreport.io/ | pentest & owasp oriented |
 
 #####  ToDo add supported inputs and outputs
