@@ -42,6 +42,7 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | ? | ? | https://checksec.com/canopy.html |
 | N | N | Y&N | https://www.talend.com/products/talend-open-studio/ | Can map and normalise many datasets |
 |OSS|OSS|OSS|OSS|<h3>Open Source</h3>|
+| Y | Y | Y | https://github.com/HASecuritySolutions/VulnWhisperer | Leverages ElasticStack for reporting and uses an interim DB for dedupe, enriching and pushing tickets into southbound tools |
 | Y | Y | Y | https://github.com/DefectDojo/django-DefectDojo | Looks the Biz but cannot import, '0 findings were processed'. Using API to add issues works, but dedupe is not working as expected, project is not updated often | 
 | Y | Y*| Y | https://github.com/olacabs/jackhammer | Online demo has no import, cannot build any version locally |
 | Y | Y* | Y | https://archerysec.info/ | Lack of import options, seems oriented to built in tools |
