@@ -16,17 +16,17 @@ The following table is an initial list of tools that seek to aggregate such data
 |AppSec|OpSec|OSS|URL|Notes|
 |---|---|---|---------------------------|--|
 |£$€|£$€|£$€|£$€|<h3>Commercial Tools</h3>|
-| Y | Y | N | https://www.kennasecurity.com/ |
-| Y | Y | N | https://www.brinqa.com/ |
-| Y | Y | N | https://www.nucleussec.com/ | 
-| Y | Y | N | https://www.netspi.com/resolve/ |
-| Y | Y | N | https://www.rapid7.com/products/insightvm/ |
-| Y | Y | N | https://allgress.com/vulnerability-analysis | Demanded NDA for pricing |
-| Y | Y | N | https://gauntlet.io/ |
+| Y | Y | N | https://www.nucleussec.com/ | C$ |
+| Y | Y | N | https://www.brinqa.com/ | C$$ |
+| Y | Y | N | https://www.netspi.com/resolve/ |  C$$$ |
+| Y | Y | N | https://www.rapid7.com/products/insightvm/ | C$$$$ |
+| Y | Y | N | https://www.kennasecurity.com/ | C$$$$$ |
 | Y | Y | N | https://www.skyboxsecurity.com/products/skybox-vulnerability-control |
 | Y | Y | N | https://www.tenable.com/products/tenable-lumin | they plan to pull in 3rd party scan data one to watch |
+| Y | Y | N | https://gauntlet.io/ |
 | Y | Y | N | https://vulcancyber.com/ | no contact email |
-| Y* | Y* | N | https://www.nopsec.com/ |
+| Y* | Y* | N | https://www.nopsec.com/ | 
+| Y | Y | N | https://allgress.com/vulnerability-analysis | Demanded NDA for pricing C$$$$$$$$$$ |
 | Y | N | N | https://threadfix.it/ | No longer OSS since v2.3 |
 | ? | ? | N | https://www.metricstream.com/apps/threat-vulnerability-management.htm |
 | ? | ? | N | https://elastic-detector.secludit.com/home/sign_in |
