@@ -9,7 +9,7 @@ Static AppSec defines the project and its dependant source code repositories and
 
 Trying to tie these spheres together should give a more holistic view of how vulnerable a particular project maybe and where one can prioritise efforts. It is not just a case of hoovering up the many different types of testing, but also various intel feeds with which one can enrich the dataset before finally issuing the normalised data out into the various tools developers and operational teams already have. Keeping track of these issues and any exceptions that may arise such as accepting risks is also another key area to judge any tool/platform that will assist in the vulnerability management workflow.
 
-http://www.frhack.org/research/xorcism.php is a good example of the size and difficulty in this challenge and why few tools cover all bases, but they are making great strides to accomplish this.
+http://www.frhack.org/research/xorcism.php Alternate link https://web.archive.org/web/20190316174922/http://www.frhack.org/research/xorcism.php is a good example of the size and difficulty in this challenge and why few tools cover all bases, but they are making great strides to accomplish this.
 
 The following table is an initial list of tools that seek to aggregate such data to assist in streamlining the workflow.
 
