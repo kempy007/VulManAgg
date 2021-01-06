@@ -35,6 +35,7 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | ? | N | https://codedx.com/ |
 | N* | N* | N | https://www.flexera.com/products/software-vulnerability-management/ | Patch management oriented, use to be Secunia(Had widest coverage of packages) |
 | ? | ? | N | https://www.simplerisk.com/ | Free to use, orientated towards risk audits |
+| ? | ? | N | https://www.mageni.net/ | Free to use, Support is Subscription model |
 |???|???|???|???|<h3>Mixed</h3>|
 | Y | ? | Y&N | https://www.faradaysec.com/ | CE edition heavily stripped back |
 | Y | ? | Y&N | https://dradisframework.com/ | pentest & owasp oriented |
@@ -49,6 +50,7 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | Y | Y | https://www.seccubus.com | * Not a tool to consolidate scan data, Scanner for Delta Reporting only a few tools supported |
 | Y | ? | Y | http://vulnreport.io/ | pentest & owasp oriented |
 | Y | Y | Y | https://github.com/HASecuritySolutions/VulnWhisperer | VulnWhisperer is a report aggregator which allows users to set custom risk scores and create actionable data for security analyst to effectively mitigate vulnerabilites. |
+| ? | ? | Y | https://github.com/DSecureMe/vmc | VMC (Vulnerability Management Center) is a platform designed to make vulnerability governance easier for any security specialists and SOC teams within their organisations |
 
 #####  ToDo add supported inputs and outputs
 
