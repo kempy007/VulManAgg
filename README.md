@@ -51,7 +51,7 @@ The following table is an initial list of tools that seek to aggregate such data
 | Y | ? | Y | http://vulnreport.io/ | pentest & owasp oriented |
 | Y | Y | Y | https://github.com/HASecuritySolutions/VulnWhisperer | VulnWhisperer is a report aggregator which allows users to set custom risk scores and create actionable data for security analyst to effectively mitigate vulnerabilites. |
 | ? | ? | Y | https://github.com/DSecureMe/vmc | VMC (Vulnerability Management Center) is a platform designed to make vulnerability governance easier for any security specialists and SOC teams within their organisations |
-
+| ? | ? | Y | https://osv.dev/ | We created OSV to address many of the shortcomings of dealing with vulnerabilities in open source software using existing solutions. |
 #####  ToDo add supported inputs and outputs
 
 ### Want to make this better.
